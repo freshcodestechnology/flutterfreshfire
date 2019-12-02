@@ -75,8 +75,9 @@ Run the project.
 
 
 ### Supoort 
-What's App Supoort : +919727774993
-Email : info@freshcodes.in
+
+- Email : info@freshcodes.in
+- What's App Supoort : +919727774993
 
 
 
